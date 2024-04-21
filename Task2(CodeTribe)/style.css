@@ -218,3 +218,6 @@ ul li a:hover::after {
     color: cadetblue;
     padding-top: 3rem;
 }
+.hidden {
+    display: none;
+}
